@@ -1,3 +1,11 @@
+##############################################################
+##ANALYSING TWEET SENTIMENT ON OBAMACARE
+#### THE SENTIMENT FUNCTION IN THIS THIS PROGRAM
+### MADE PUBLICLY AVAILABLE BY https://github.com/jeffreybreen
+#############################################################
+
+
+
 #######################
 ## INSTALL PACKAGES
 #######################
