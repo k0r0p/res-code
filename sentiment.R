@@ -29,8 +29,8 @@ download.file(url="http://curl.haxx.se/ca/cacert.pem", destfile="cacert.pem")
 reqURL <- "https://api.twitter.com/oauth/request_token"
 accessURL <- "https://api.twitter.com/oauth/access_token"
 authURL <- "https://api.twitter.com/oauth/authorize"
-consumerKey <- "Jk8xode8AQPKUDXbMWSTA8iqo"
-consumerSecret <- "pAaUzTbJnUPtijQonOWCNJJKgBP5nxWsXgXyIIx2nBU2X7R940"
+consumerKey <- "#########################"
+consumerSecret <- "###########################"
 Cred <- OAuthFactory$new(consumerKey=consumerKey,
                          consumerSecret=consumerSecret,
                          requestURL=reqURL,
